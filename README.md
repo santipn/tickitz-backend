@@ -69,4 +69,4 @@ yarn start
 
 ## Documentation
 
-- [Postman Collection](https://)
+- [Postman Collection](https://documenter.getpostman.com/view/21564671/UzBtkNdu)
